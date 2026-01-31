@@ -11,7 +11,7 @@ RobloxReconnect v1.0
 
 Установка
 1. Установите Python (рекомендуется версия 3.10 или выше).
-2. Запустите команду (WIN+R - cmd): "pip install -r requirements.txt".
+2. Запустите команду (в папке с проектом нажмите в адресную строку, введите "cmd", нажмите Enter и в консоли введите): "pip install -r requirements.txt"
 3. Запустите "build.bat", чтобы создать .exe файл в папке "dist".
 4. Запустите "RobloxReconnector.exe" из папки "dist".
 5. Добавьте свои аккаунты (Cookie, ID плейса, VIP-ссылка(необязательно)).
